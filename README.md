@@ -23,14 +23,14 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Eventos -->
-[EV1]: eventos/Certificado_universoifma2019_Participacao_17-15-51 "Universo IFMA 2019"
-[EV2]: eventos/certificao_ifma_hackathon "Outro - Hackathon"
+[EV1]: !Eventos/Certificado_universoifma2019_Participacao_17-15-51 "Universo IFMA 2019"
+[EV2]: !Eventos/certificao_ifma_hackathon "Outro - Hackathon"
 
 <!-- Links/Palestras -->
-[PL1]: palestras/Certificado_universoifma2019_Palestra_17-16-19.pdf "Como transformar sua ideia em um negócio: Caso Biofluid"
+[PL1]: !Palestras/Certificado_universoifma2019_Palestra_17-16-19.pdf "Como transformar sua ideia em um negócio: Caso Biofluid"
 
 <!-- Links/Oficinas -->
-[OF1]: oficinas/Certificado_universoifma2019_Oficina_17-16-06.pdf  "Minicurso de Desenvolvimento de Jogos 2D com Unity"
+[OF1]: !Oficinas/Certificado_universoifma2019_Oficina_17-16-06.pdf  "Minicurso de Desenvolvimento de Jogos 2D com Unity"
 
 <!-- Links/Img -->
 [sIF]: i/ifma.png "IFMA" 
