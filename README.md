@@ -14,4 +14,4 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 <!-- Links/Certificados -->
 
 <!-- Links/Img -->
-[sIF]: img/ifma.png
+[sIF]: i/ifma.png "IFMA" 
