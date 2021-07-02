@@ -23,8 +23,8 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
 <!-- Links/Eventos -->
-[EV1]: !Eventos/Certificado_universoifma2019_Participacao_17-15-51 "Universo IFMA 2019"
-[EV2]: !Eventos/certificao_ifma_hackathon "Outro - Hackathon"
+[EV1]: !Eventos/Certificado_universoifma2019_Participacao_17-15-51.pdf "Universo IFMA 2019"
+[EV2]: !Eventos/certificao_ifma_hackathon.pdf "Outro - Hackathon"
 
 <!-- Links/Palestras -->
 [PL1]: !Palestras/Certificado_universoifma2019_Palestra_17-16-19.pdf "Como transformar sua ideia em um negócio: Caso Biofluid"
