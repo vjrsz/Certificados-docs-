@@ -9,6 +9,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
   | ------------------- | ------------------------- | ------------- | 
   | ![][sIF] IFMA(Monte C.)  | **Universo IFMA 2019**  [⮚][EV1]  | 24 Horas     |
   | ![][sIF] IFMA(Monte C.)  | **Outro - Hackathon**  [⮚][EV2]  | 32 Horas     |
+  | ![][sIF] UFMA(SLZ - Bacanga)  | **EAComp - Introdução a JavaScript**  [⮚][EV3]  | 20 Horas     |
 
 ## 📜 Palestras  
   | Organização         | Conteúdo                  | Carga horária 
@@ -22,9 +23,10 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
-<!-- Links/Eventos -->
+<!-- Links/Eventos -->gi
 [EV1]: !Eventos/Certificado_universoifma2019_Participacao_17-15-51.pdf "Universo IFMA 2019"
 [EV2]: !Eventos/certificao_ifma_hackathon.pdf "Outro - Hackathon"
+[EV3]: !Eventos/Certificado_de_Participacao_EAComp_2021.pdf "EAComp - Introdução a JavaScript"
 
 <!-- Links/Palestras -->
 [PL1]: !Palestras/Certificado_universoifma2019_Palestra_17-16-19.pdf "Como transformar sua ideia em um negócio: Caso Biofluid"
