@@ -23,7 +23,7 @@ Clique nas setas (**⮚**) para conferir o certificado/comprovante;
 
 
 <!-- -=- # --- REFERÊNCIAS --- # -=- -->
-<!-- Links/Eventos -->gi
+<!-- Links/Eventos -->
 [EV1]: !Eventos/Certificado_universoifma2019_Participacao_17-15-51.pdf "Universo IFMA 2019"
 [EV2]: !Eventos/certificao_ifma_hackathon.pdf "Outro - Hackathon"
 [EV3]: !Eventos/Certificado_de_Participacao_EAComp_2021.pdf "EAComp - Introdução a JavaScript"
